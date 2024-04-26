@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ytoshihi <ytoshihi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: yuji <yuji@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/26 17:07:53 by ytoshihi          #+#    #+#             */
-/*   Updated: 2024/04/26 18:15:06 by ytoshihi         ###   ########.fr       */
+/*   Updated: 2024/04/26 23:34:03 by yuji             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,5 +15,6 @@
 int	main(void)
 {
 	printf("delete -i");
+	printf("add git_hook folder");
 	return (0);
 }
