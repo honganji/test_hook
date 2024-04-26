@@ -6,7 +6,7 @@
 /*   By: ytoshihi <ytoshihi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/26 17:07:53 by ytoshihi          #+#    #+#             */
-/*   Updated: 2024/04/26 18:08:24 by ytoshihi         ###   ########.fr       */
+/*   Updated: 2024/04/26 18:14:39 by ytoshihi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,6 @@
 
 int	main(void)
 {
-	printf("change");
+	printf("change how to write test");
 	return (0);
 }
